@@ -1,7 +1,7 @@
 ---
 name: Bring-up report (manual)
 about: Send a report you generated yourself, without using Send
-title: "[board] game name -- what happened"
+title: "[board] game name, what happened"
 labels: bring-up-report
 ---
 
