@@ -18,9 +18,11 @@ a place where we are fully established, and as stated on the site, this is a ful
 community effort, and I can't do it alone. I will rely heavily on your reports and coding
 expertise, in an effort to get to the goal of unlocking all games free for the community.
 
-I did the hard part! Now its time for everyone to lend a hand! As Vegeta once said:
+I already did the hard part! We now have the loader. Now its time for everyone to lend a hand! 
 
-"People of the Earth! Lend us your Power!!!"
+As Vegeta once said:
+
+**"People of the Earth! Lend us your Power!!!"**
 
 ## What a Report actually is
 
